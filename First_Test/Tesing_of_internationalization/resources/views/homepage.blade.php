@@ -4,7 +4,7 @@
             @include('partials.language_switcher')
 
             <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                {{ __('Welcome to our website!') }}
+                {{ __('This is the homepage') }}
             </div>
         </div>
     </div>
